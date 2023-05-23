@@ -1,0 +1,25 @@
+cookie:
+  expiry_days: 30
+  key: abcde
+  name: cookie_name
+credentials:
+  usernames:
+    dedric:
+      email: dbaldwin@gmail.com
+      name: Dedric Long
+      password: $2b$12$fao7faK8GQ6CehdIUxrPsOobugAsCfL45j2ew7NsYd10XxM0jI4oW
+    fudanjx:
+      email: fudanjx@gmail.com
+      name: Jin Xin
+      password: $2b$12$sBO2IuF0t6ecJPF64weqBOaXOXH6h/cimfuDck2yme.7zDmOCXDBi
+    jx:
+      email: eee_jx@hotmail.com
+      name: xinxin
+      password: $2b$12$Ep0oBrsIkbgp2uT2nyh.zusT/oN2KZqQq9ip.fX1JSC/LVxGaNcfi
+    yaned:
+      email: kcs.yande@gmail.com
+      name: Jin Yan De
+      password: $2b$12$5fpHC6lvbK1KXc.AAmi30ecSsD.Nvwj3kQS0MVGDXX6JqtkSNX/jK
+preauthorized:
+  emails:
+  - kcs.yande@gmail.com

@@ -15,7 +15,7 @@ def sendemail(temp_password, user_email):
     smtp_server = "smtp.office365.com"
     smtp_port = 587
     smtp_username = "bot_Alex@outlook.com"
-    smtp_password = 'DedricTammy123!@#'
+    smtp_password = 'email_pass_word_here'
 
     # Create the email message
     email = MIMEMultipart()
